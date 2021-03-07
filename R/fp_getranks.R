@@ -26,8 +26,6 @@
 #' @return rankings data from FantasyPros
 #'
 #' @export
-
-
 fp_rankings <- function(page, ..., sport = "nfl", .return = "table"){
 
   # browser()
